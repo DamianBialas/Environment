@@ -22,6 +22,7 @@ public:
     
 private:
     Scheduler& msg_scheduler;
+    unsigned mychange;
 };
 
 } // namespace project
